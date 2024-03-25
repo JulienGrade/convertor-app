@@ -6,7 +6,7 @@ export function InputTemperature({ defaultValue, onChangeText, unit }) {
         <View style={s.container}>
             <TextInput
                 style={s.input}
-                placeholder="Tappe une température"
+                placeholder="Saisis une température"
                 keyboardType="numeric"
                 maxLength={4}
                 defaultValue={defaultValue}

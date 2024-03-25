@@ -6,7 +6,7 @@ const s = StyleSheet.create({
         justifyContent: "center",
     },
     workspace: {
-        height: 450,
+        height: 300,
         alignItems: "center",
         justifyContent: "space-evenly",
     },
